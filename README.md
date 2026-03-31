@@ -62,7 +62,7 @@ banking-app/
 
 1. **Clone the repository**
 ```
-git clone https://github.com/your-username/banking-app.git
+git clone https://github.com/saarv3sh7/banking-app.git
 cd banking-app
 ```
 
